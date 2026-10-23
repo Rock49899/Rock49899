@@ -1,13 +1,12 @@
 <h1 align="center">Bonjour, moi c'est Rock 👋</h1>
 
-<h3 align="center">Développeur Full-Stack & Funnel Builder</h3>
+<h3 align="center">RockDev · Développeur Full-Stack & Product Builder</h3>
 
 <p align="center">Je conçois des applications web utiles, modernes et orientées métier — de l'idée au déploiement.</p>
 
 <p align="center">
   <a href="https://github.com/Rock49899?tab=repositories"><img src="https://img.shields.io/badge/Projets-111827?style=for-the-badge&logo=github&logoColor=white" alt="Projets GitHub"></a>
-  <a href="https://muslim-connect-ecru.vercel.app"><img src="https://img.shields.io/badge/Demo-Muslim%20Connect-0f766e?style=for-the-badge&logo=vercel&logoColor=white" alt="Muslim Connect"></a>
-  <a href="https://project-my-rotten-tomotoes.vercel.app"><img src="https://img.shields.io/badge/Demo-Rotten%20Tomatoes-b91c1c?style=for-the-badge&logo=vercel&logoColor=white" alt="Project My Rotten Tomatoes"></a>
+  <a href="mailto:rock.houinsou@epitech.eu"><img src="https://img.shields.io/badge/Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Contact"></a>
 </p>
 
 ---
@@ -16,14 +15,14 @@
 
 Je transforme des besoins concrets en produits numériques fiables et faciles à utiliser.
 
-Mon approche combine compréhension du besoin, conception des données, développement full-stack, intégration d'API, tests et déploiement. Je m'intéresse particulièrement aux applications métier, aux plateformes communautaires, aux paiements numériques et aux outils qui simplifient les opérations quotidiennes.
+Mon approche combine compréhension du besoin, conception des données, développement full-stack, intégration d'API, tests et déploiement. Je m'intéresse particulièrement aux applications métier, aux services numériques locaux, aux plateformes communautaires et aux outils qui simplifient les opérations quotidiennes.
 
 - 🌍 Basé au Bénin
-- 🧩 Spécialisé dans les applications web orientées produit
+- 🧩 Développement d'applications web orientées produit
 - 🛠️ De l'analyse fonctionnelle à la mise en production
 - 📚 Documentation, règles métier et maintenabilité au centre de mon approche
 
-## Projets sélectionnés
+## Projets mis en avant
 
 ### [SplitPay](https://github.com/Rock49899/SplitPay)
 
@@ -37,36 +36,47 @@ Plateforme de gestion des frais de scolarité et des paiements Mobile Money pour
 
 **Stack :** Laravel · PHP · Vue 3 · Tailwind CSS · MySQL · Redis · Docker
 
-### [Muslim Connect](https://github.com/Rock49899/muslim_connect)
+### [OscanM](https://github.com/Rock49899/OscanM)
 
-Plateforme communautaire moderne développée avec une approche produit et une interface orientée utilisateur.
+Application officielle dédiée à la consultation et à la gestion de données, avec une interface web moderne et une architecture frontend structurée.
 
-**Stack :** Next.js · React · TypeScript · Tailwind CSS
+**Stack :** TypeScript · Next.js · React · Tailwind CSS
 
-[Voir la démo](https://muslim-connect-ecru.vercel.app)
+### [Budget communal Bénin](https://github.com/Rock49899/budget-communal-benin)
 
-### [Project My Rotten Tomatoes](https://github.com/Rock49899/Project-My_Rotten_Tomotoes)
+Projet orienté service public et transparence, dédié à la valorisation et à la consultation des informations budgétaires communales au Bénin.
 
-Application de découverte de contenus cinématographiques avec recherche, consultation et expérience web responsive.
+**Domaine :** données publiques · service numérique · impact local
 
-**Stack :** React · TypeScript · API · Vercel
+### [Tomato Reviews](https://github.com/Rock49899/Project-My_Rotten_Tomotoes)
+
+Application complète de critiques de films avec catalogue, authentification, favoris, avis utilisateurs et espace d'administration.
+
+- Catalogue et recherche de films
+- Notes et commentaires
+- Favoris par utilisateur
+- Authentification Credentials et Google
+- Backoffice d'administration
+- API et modèle de données MongoDB avec Prisma
+
+**Stack :** Next.js · React · JavaScript · Tailwind CSS · MongoDB · Prisma · NextAuth
 
 [Voir la démo](https://project-my-rotten-tomotoes.vercel.app)
+
+## Domaines d'intérêt
+
+- Applications web métier et tableaux de bord
+- Services numériques pour les collectivités et communautés
+- API REST et intégrations avec des services externes
+- Systèmes de gestion avec rôles et permissions
+- Solutions de paiement et de suivi opérationnel
+- Interfaces responsives, accessibles et maintenables
 
 ## Technologies
 
 <p>
-  <img src="https://skillicons.dev/icons?i=php,laravel,js,ts,vue,react,nextjs,tailwind,html,css,mysql,redis,docker,git,github,vercel" alt="Technologies utilisées">
+  <img src="https://skillicons.dev/icons?i=php,laravel,js,ts,vue,react,nextjs,tailwind,html,css,mysql,mongodb,redis,docker,git,github,vercel" alt="Technologies utilisées">
 </p>
-
-## Ce que je construis
-
-- Applications web métier et tableaux de bord
-- API REST et intégrations avec des services externes
-- Plateformes communautaires et produits SaaS
-- Systèmes de gestion avec rôles et permissions
-- Interfaces responsives, accessibles et maintenables
-- Solutions de paiement et de suivi opérationnel
 
 ## Ma méthode
 
