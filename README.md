@@ -1,6 +1,6 @@
 <h1 align="center">Bonjour, moi c'est Rock 👋</h1>
 
-<h3 align="center">RockDev · Développeur Full-Stack & Product Builder</h3>
+<h3 align="center">Développeur Full-Stack & Funnel Builder</h3>
 
 <p align="center">Je conçois des applications web utiles, modernes et orientées métier — de l'idée au déploiement.</p>
 
